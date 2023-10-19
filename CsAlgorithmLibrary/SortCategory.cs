@@ -41,5 +41,8 @@ namespace CsAlgorithmLibrary
                 itemArray[i + 1] = key;
             }
         }
+        public static void MergeSort(int[] itemArray) 
+        {
+        }
     }
 }
